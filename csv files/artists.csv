@@ -1,0 +1,427 @@
+,artist_id,artist_name,genres,popularity
+0,7oPftvlwr6VrsViSDV7fJY,Green Day,"['permanent wave', 'punk']",83
+1,6TIYQ3jFPwQSRmorSezPxX,Machine Gun Kelly,"['ohio hip hop', 'pop rap']",85
+2,6Ad91Jof8Niiw0lGLLi3NW,YUNGBLUD,"['british indie rock', 'modern rock', 'pop', 'rock']",77
+3,4exLIFE8sISLr28sqG1qNX,Travis Barker,['rap rock'],79
+4,7n2Ycct7Beij7Dj7meI4X0,TWICE,"['k-pop', 'k-pop girl group']",87
+5,0epOFNiUfyON9EYx7Tpr6V,The Strokes,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",79
+6,6FBDaR13swtiWwGhX1WQsP,blink-182,"['pop punk', 'punk', 'rock', 'socal pop punk']",80
+7,0EdvGhlC1FkGItLOWQzG4J,Sublime,"['reggae fusion', 'ska mexicano', 'ska punk']",73
+8,7Ln80lUS6He07XvHI8qqHH,Arctic Monkeys,"['garage rock', 'permanent wave', 'rock', 'sheffield indie']",88
+9,2C2sVVXanbOpymYBMpsi89,The Cab,"['modern rock', 'neon pop punk', 'pop punk', 'pop rock', 'post-teen pop', 'vegas indie']",64
+10,3HqSLMAZ3g3d5poNaI7GOU,IU,['k-pop'],78
+11,20JZFwl6HVl6yg8a4H3ZqK,Panic! At The Disco,['modern rock'],82
+12,12Chz98pHFMPJEknJQMWvI,Muse,"['modern rock', 'permanent wave', 'rock']",79
+13,3Hog7RVQ1lAv1crdfiJPLq,Superbus,"['french pop', 'french rock', 'variete francaise']",48
+14,5LfGQac0EIXyAN8aUwmNAQ,The Offspring,"['alternative metal', 'permanent wave', 'punk', 'rock', 'skate punk', 'socal pop punk']",79
+15,694QW15WkebjcrWgQHzRYF,Everclear,"['alternative metal', 'alternative rock', 'permanent wave', 'pop rock', 'post-grunge', 'rock']",64
+16,6DY6xsCBGZHrG4PWSG5paz,Sorn,[],39
+17,6kgXeMO4kd68uf4oEFHRS1,ORESAMA,['anime'],41
+18,0qT79UgT5tY4yudH9VfsdT,Sum 41,"['alternative metal', 'canadian pop punk', 'canadian punk', 'nu metal', 'pop punk', 'punk', 'rock']",74
+19,6aLdhHUqgdKE86xbtNmY8g,Crush,"['chill r&b', 'k-pop', 'korean r&b']",70
+20,4XpUIb8uuNlIWVKmgKZXC0,ZICO,"['k-pop', 'k-rap', 'korean r&b']",65
+21,7sVQKNtdP2NylxMgbNOJMM,Goldfinger,"['comic', 'pop punk', 'punk', 'ska', 'ska punk', 'skate punk', 'socal pop punk']",61
+22,2e4nwiX8ZCU09LGLOpeqTH,Laura Pausini,"['europop', 'italian adult pop', 'latin', 'latin arena pop', 'latin pop', 'mexican pop']",73
+23,0c4fpXIFPFNve1CxmGgXQf,Gob,"['canadian pop punk', 'canadian punk', 'pop punk', 'punk', 'skate punk', 'vancouver punk']",45
+24,6Nwc4urCR2Qdx302j2XIlv,Stroke 9,['pop rock'],41
+25,2vm8GdHyrJh2O2MfbQFYG0,Ingrid Michaelson,"['acoustic pop', 'ectofolk', 'indiecoustica', 'lilith', 'neo mellow', 'pop rock']",69
+26,1LeVJ5GPeYDOVUjxx1y7Rp,Unknown Mortal Orchestra,"['chillwave', 'indie rock', 'kiwi rock', 'neo-psychedelic', 'portland hip hop', 'psychedelic pop']",68
+27,4Z8W4fKeB5YxbusRsdQVPb,Radiohead,"['alternative rock', 'art rock', 'melancholia', 'oxford indie', 'permanent wave', 'rock']",82
+28,1Bl6wpkWCQ4KVgnASpvzzA,BROCKHAMPTON,"['boy band', 'hip hop', 'pop', 'rap']",75
+29,1ST6hERy8rGdwUaNAZxfG9,Skating Polly,"['bubblegrunge', 'indie punk', 'ok indie', 'okc indie', 'riot grrrl']",39
+30,0cQbJU1aAzvbEmTuljWLlF,No Doubt,"['alternative rock', 'dance pop', 'dance rock', 'permanent wave', 'pop rock']",71
+31,1vVHevk2PD45epYnDi9CCc,Jack Stauber,['pittsburgh indie'],69
+32,0hT0UrjmzkLJouAT52ck6j,Park Kyung,[],42
+33,4MLK9Hhz7UhxAzU2awoLxk,EUNHA,[],49
+34,4Eqd24yS5YcxI8b6Xfuwr8,Eve 6,"['alternative metal', 'alternative rock', 'pop rock', 'post-grunge']",58
+35,73sIBHcqh3Z3NyqHKZ7FOL,Childish Gambino,"['atl hip hop', 'hip hop', 'pop', 'pop rap', 'rap']",81
+36,46gyXjRIvN1NL1eCB8GBxo,All Time Low,"['modern rock', 'pop punk', 'rock']",75
+37,3IJ770I1QPmwVp7yug0eJ4,Lustra,[],58
+38,0DK7FqcaL3ks9TfFn9y1sD,Box Car Racer,"['pop punk', 'punk', 'skate punk']",53
+39,5DuzBeOgFwViFcv00Q5PFb,WINNER,"['k-pop', 'k-pop boy group']",60
+40,0lZoBs4Pzo7R89JM9lxwoT,Duran Duran,"['dance rock', 'new romantic', 'new wave', 'new wave pop', 'rock', 'synthpop']",72
+41,3LC8PXXgk7YtAIobtjSdNi,The Ataris,"['emo', 'pop punk', 'punk', 'skate punk']",55
+42,1U1el3k54VvEUzo3ybLPlM,Kali Uchis,"['colombian pop', 'pop']",86
+43,57vWImR43h4CaDao012Ofp,Steve Lacy,['afrofuturism'],81
+44,0ECwFtbIWEVNwjlrfc6xoL,Eagles,"['album rock', 'classic rock', 'country rock', 'folk rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",80
+45,5FxD8fkQZ6KcsSYupDVoSO,Omar Apollo,"['alternative r&b', 'bedroom pop', 'bedroom soul', 'chill r&b', 'indie r&b', 'pop', 'r&b']",69
+46,6USv9qhCn6zfxlBQIYJ9qs,Dominic Fike,"['alternative pop rock', 'pop']",75
+47,1rHOtdmGNr5vcYNw5v7QGC,Kenny Beats,"['trap', 'underground hip hop']",69
+48,2eRjqXdTsssjpimRlz1i41,H.I.N.P (Hot Issue of Ntl. Producers),"['k-pop', 'k-pop reality show']",49
+49,4ghjRm4M2vChDfTUycx0Ce,New Found Glory,"['easycore', 'emo', 'pop punk', 'punk', 'skate punk']",64
+50,115KcJpRFQWDqnZkqruT1k,Hushpuppies,"['french garage rock', 'french rock', 'rock independant francais']",36
+51,3vAaWhdBR38Q02ohXqaNHT,The All-American Rejects,"['modern rock', 'neo mellow', 'pop punk', 'pop rock', 'rock']",71
+52,5tOWIviwLM1EIqGAbF8VSU,SebastiAn,"['alternative dance', 'electro house', 'electronica', 'filter house', 'new rave']",50
+53,3K2Srho6NCF3o9MswGR76H,Bakar,['uk alternative hip hop'],67
+54,1lHfzEkKmmvdVDDDLKkcsd,CIX,['k-pop'],56
+55,4j56EQDQu5XnL7R3E9iFJT,Young the Giant,"['modern alternative rock', 'modern rock', 'pop rock', 'rock', 'stomp and holler']",70
+56,2TM0qnbJH4QPhGMCdPt7fH,Neck Deep,"['modern rock', 'pop punk', 'rock', 'uk pop punk']",69
+57,3zxKH0qp3nBCuPZCZT5Vaf,Yellowcard,"['bow pop', 'pop punk', 'rock', 'socal pop punk']",66
+58,5INjqkS1o8h1imAzPqGZBb,Tame Impala,"['australian psych', 'neo-psychedelic']",82
+59,3UbyYnvNIT5DFXU4WgiGpP,Whitesnake,"['album rock', 'british blues', 'classic rock', 'glam metal', 'hard rock', 'metal', 'rock']",68
+60,3l0CmX0FuQjFxr8SK7Vqag,Clairo,"['bedroom pop', 'indie pop', 'pop']",82
+61,2Q4FnG5T6NTUcAAZwuMV5K,Del Amitri,"['melancholia', 'new wave pop', 'pop rock', 'scottish rock']",53
+62,0XATRDCYuuGhk0oE7C0o5G,MAMAMOO,"['k-pop', 'k-pop girl group']",72
+63,6ok7bEDf9CZ0448D59AaNL,Ludo,['tulsa indie'],49
+64,5Pcx98OUnL52aGZRRQx5v8,DIA,"['k-pop', 'k-pop girl group']",44
+65,5MmVJVhhYKQ86izuGHzJYA,MIKA,"['europop', 'pop']",71
+66,5BvJzeQpmsdsFp4HGUYUEx,Vampire Weekend,"['baroque pop', 'indie rock', 'modern rock']",71
+67,68ym0sOo7MazZxScbm1wtI,VIBE,['korean pop'],36
+68,0UEP2XBR9aC5NBKcAKnBIq,CHEN,['k-pop'],62
+69,5dCvSnVduaFleCnyy98JMo,HEIZE,"['k-pop', 'korean pop', 'korean r&b']",65
+70,4UXqAaa6dQYAk18Lv7PEgX,Fall Out Boy,"['emo', 'modern rock', 'rock']",82
+71,1ThoqLcyIYvZn7iWbj8fsj,Bill Withers,"['funk', 'motown', 'quiet storm', 'soul']",76
+72,0L8ExT028jH3ddEcZwqJJ5,Red Hot Chili Peppers,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave', 'rock']",85
+73,0PFtn5NtBbbUNbU9EAmIWF,TOTO,"['album rock', 'classic rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",76
+74,7bD48oLsrx39CrT0SJ3nQq,TOYO,[],5
+75,6dHr8Y0nPrnHiBOuJzuu8F,Isles & Glaciers,"['metalcore', 'progressive post-hardcore']",40
+77,5r1tUTxVSgvBHnoDuDODPH,IZ*ONE,"['k-pop', 'k-pop girl group']",69
+79,19zqV9DV3txjMUjHvltl2D,Motion City Soundtrack,"['emo', 'neon pop punk', 'pop punk']",57
+83,71h7GTahhKcSkQ1ayhTvOD,Something Corporate,"['emo', 'neon pop punk', 'piano rock', 'pop emo', 'pop punk']",50
+85,246dkjvS1zLTtiykXe5h60,Post Malone,"['dfw rap', 'melodic rap', 'rap']",93
+88,3jOstUTkEu2JkjvRdBA5Gu,Weezer,"['alternative rock', 'modern power pop', 'modern rock', 'permanent wave', 'rock']",77
+89,3alW3LYQS8K29z8C8NSLIX,Barry Manilow,"['adult standards', 'bubblegum pop', 'disco', 'mellow gold', 'quiet storm', 'soft rock', 'yacht rock']",66
+90,319yZVtYM9MBGqmSQnMyY6,Carole King,"['adult standards', 'brill building pop', 'classic rock', 'folk', 'folk rock', 'mellow gold', 'rock', 'singer-songwriter', 'soft rock']",67
+91,74XFHRwlV6OrjEM0A2NCMF,Paramore,"['candy pop', 'pixie', 'pop emo', 'pop punk']",81
+92,3kVUvbeRdcrqQ3oHk5hPdx,Grouplove,"['indie pop', 'indie rock', 'indietronica', 'la indie', 'modern alternative rock', 'modern rock', 'pop rock', 'rock', 'stomp and holler']",70
+93,3RbyaF3Pq6iDUKNp04AIcU,New Politics,"['indie poptimism', 'modern alternative rock', 'modern rock', 'pop rock', 'rock', 'stomp pop']",55
+95,7E41j1yL9ZeTWfqe9bUGgw,Letters To Cleo,"['alternative pop', 'boston rock', 'candy pop', 'lilith', 'pop rock']",48
+98,4k5fFEYgkWYrYvtOK3zVBl,BOL4,['k-pop'],68
+100,6guC9FqvlVboSKTI77NG2k,Dance Gavin Dance,"['metalcore', 'pixie', 'sacramento indie', 'screamo', 'swancore']",68
+101,3nJWBJvK7uGvfp4iZh9CkN,Relient K,"['canadian ccm', 'christian alternative rock', 'christian music', 'christian punk', 'christian rock', 'pop punk', 'pop rock']",63
+102,65EXuYHVoehCKqp0kOS6px,Parov Stelar,"['balkan beats', 'downtempo', 'electro swing', 'nu jazz']",66
+104,3eCd0TZrBPm2n9cDG6yWfF,DEAN,"['k-pop', 'korean r&b']",67
+105,0js3wKXyi7RL11sfOykRt1,dj friz,['k-pop'],47
+106,0SwO7SWeDHJijQ3XNS7xEE,MGMT,"['alternative dance', 'indie rock', 'indietronica', 'modern rock', 'rock']",79
+107,3Ayl7mCk0nScecqOzvNp6s,Jimmy Eat World,"['alternative rock', 'emo', 'modern power pop', 'modern rock', 'pop punk', 'pop rock', 'rock']",71
+108,3Nrfpe0tUJi4K4DXYWgMUX,BTS,"['k-pop', 'k-pop boy group']",97
+109,3jiOHVFdVQjbSDVeC7RgY7,Wir Sind Helden,"['german indie', 'german pop', 'german pop rock', 'german rock', 'liedermacher']",55
+110,7AsPubxWM5tfW4hTZEL3aP,Cute Is What We Aim For,"['neon pop punk', 'pixie', 'pop emo', 'pop punk']",50
+111,5PN2aHIvLEM98XIorsPMhE,Kim Carnes,"['mellow gold', 'new wave pop', 'soft rock']",63
+112,2u7CP5T30c8ctenzXgEV1W,pH-1,"['chill r&b', 'k-pop', 'k-rap', 'korean r&b']",66
+113,1MAUqH0haKBYbjpknTfreY,PENOMECO,"['k-pop', 'k-rap', 'korean r&b']",58
+114,67lytN32YpUxiSeWlKfHJ3,Yung Lean,"['psychedelic hip hop', 'underground hip hop']",71
+115,2AfmfGFbe0A0WsTYm0SDTx,(G)I-DLE,"['k-pop', 'k-pop girl group']",74
+116,41MozSoPIsD1dJM0CLPjZF,BLACKPINK,"['k-pop', 'k-pop girl group']",85
+117,3z8diLlUCkN1j9N9ZdnfBJ,NiziU,['j-pop'],67
+120,5N5RfI8FFXk4WQ8kkjE407,Deep Blue Something,['pop rock'],58
+121,0uGk2czvcpWQA383Im6ajf,Maggie Lindemann,"['alt z', 'pop', 'post-teen pop']",71
+122,08GQAI4eElDnROBrJRGE0X,Fleetwood Mac,"['album rock', 'classic rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",84
+123,2jzc5TC5TVFLXQlBNiIUzE,a-ha,"['new romantic', 'new wave', 'new wave pop', 'permanent wave', 'soft rock', 'synthpop']",74
+124,7emRV8AluG3d4e5T0DZiK9,Loggins & Messina,"['classic rock', 'country rock', 'folk', 'folk rock', 'mellow gold', 'soft rock']",57
+126,7D8LuVnlyu91ndcPe70j7S,Jade Bird,"['folk-pop', 'indie folk', 'indie pop', 'new americana', 'uk americana']",57
+127,0UREuWUT6wPZoL1Gglwmm0,The Pink Spiders,[],32
+129,6prmLEyn4LfHlD9NnXWlf7,Adam Lambert,"['dance pop', 'electropop', 'idol', 'post-teen pop']",67
+130,5T0MSzX9RC5NA6gAI6irSn,Estelle,"['neo soul', 'r&b']",70
+131,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,"['chicago rap', 'rap']",95
+132,0xliTEbFfy5HQHvsTknTkX,Alphaville,"['europop', 'new romantic', 'new wave', 'new wave pop', 'synthpop']",67
+133,2BTZIqw0ntH9MvilQ3ewNY,Cyndi Lauper,"['mellow gold', 'new wave pop', 'permanent wave', 'soft rock']",74
+134,1LZEQNv7sE11VDY3SdxQeN,Bee Gees,"['disco', 'mellow gold', 'soft rock']",81
+135,16nn7kCHPWIB6uK09GQCNI,Social Distortion,"['punk', ""punk 'n' roll"", 'skate punk', 'socal pop punk']",60
+137,6GfiCQDFYANz5wUkSmb3Dr,Thousand Foot Krutch,"['alternative metal', 'canadian ccm', 'canadian metal', 'canadian rock', 'christian alternative rock', 'christian rock', 'nu metal', 'rap metal']",69
+138,1pgtr4nhBQjp9oCUBPyYWh,Fountains Of Wayne,"['alternative rock', 'pop rock', 'power pop']",63
+139,37J1PlAkhRK7yrZUtqaUpQ,Caravan Palace,"['electro swing', 'nu jazz']",66
+140,1qqdO7xMptucPDMopsOdkr,State Champs,"['anthem emo', 'pixie', 'pop punk']",61
+141,6oFs3qk4VepIVFdoD4jmsy,PVRIS,"['modern alternative rock', 'modern rock', 'pixie', 'pop', 'pop emo', 'rock']",71
+142,5vSQUyT33qxr1xAX2Tkf3A,Clams Casino,"['escape room', 'experimental hip hop', 'psychedelic hip hop', 'underground hip hop', 'wave', 'witch house']",63
+143,6Xb4ezwoAQC4516kI89nWz,Imogen Heap,"['etherpop', 'indie pop', 'metropopolis']",60
+144,6IRouO5mvvfcyxtPDKMYFN,Foreigner,"['album rock', 'classic rock', 'hard rock', 'mellow gold', 'rock', 'soft rock']",72
+145,4QTVePrFu1xuGM9K0kNXkk,Dexys Midnight Runners,"['new romantic', 'new wave', 'new wave pop', 'ska']",65
+146,4NiJW4q9ichVqL1aUsgGAN,A Day To Remember,"['metalcore', 'pop punk', 'rock', 'screamo']",74
+147,3M4ThdJR28z9eSMcQHAZ5G,The Fratellis,"['alternative rock', 'garage rock', 'modern rock', 'rock', 'scottish rock']",65
+148,5cj0lLjcoR7YOSnhnX0Po5,Doja Cat,"['dance pop', 'pop']",95
+149,66CXWjxzNUsdJxJ2JdwvnR,Ariana Grande,"['dance pop', 'pop']",95
+154,1oJolWh3meHLWUcyIijst7,Black Kids,"['alternative dance', 'dance-punk', 'jacksonville indie', 'new rave']",44
+155,6F3NW2aC9Sni1FH7QPSLvw,Dishwalla,"['pop rock', 'post-grunge']",52
+157,7fTcs8dn9y6XuB2IqZMzBq,SR-71,['pop punk'],50
+161,2RTUTCvo6onsAnheUk3aL9,3 Doors Down,"['alternative metal', 'nu metal', 'pop rock', 'post-grunge']",74
+163,3ngKsDXZAssmljeXCvEgOe,Eagle-Eye Cherry,['pop rock'],62
+166,5mgr0FFpvy267wKVAYg8qp,Lit,"['alternative rock', 'pop punk', 'pop rock', 'socal pop punk']",60
+171,20oQv3LStCKCjI9oQ0JNha,Less Than Jake,"['modern ska punk', 'pop punk', 'punk', 'ska', 'ska punk', 'skate punk']",58
+173,2hl0xAkS2AIRAu23TVMBG1,Kansas,"['album rock', 'art rock', 'classic rock', 'hard rock', 'heartland rock', 'mellow gold', 'progressive rock', 'rock', 'soft rock', 'symphonic rock']",69
+176,5NGO30tJxFlKixkPSgXcFE,The Police,"['album rock', 'art rock', 'classic rock', 'mellow gold', 'new wave', 'permanent wave', 'rock', 'soft rock']",78
+177,26T3LtbuGT1Fu9m0eRq5X3,Cage The Elephant,"['modern rock', 'punk blues', 'rock']",78
+178,5xQKoGD7Ql92fWd1uWwKkf,Steve Perry,"['album rock', 'mellow gold', 'soft rock', 'yacht rock']",58
+180,6TLwD7HPWuiOzvXEa3oCNe,Oliver Tree,['alternative hip hop'],81
+181,6meTcQ79DrfkIuSLPZkpBg,The Story So Far,"['alternative emo', 'anthem emo', 'emo', 'pop punk', 'rock']",63
+183,7H7jQxAxVm0E8zzP92riSI,Memory Fabricators,['k-pop reality show'],31
+184,6TcnmlCSxihzWOQJ8k0rNS,Third Eye Blind,"['alternative rock', 'neo mellow', 'pop rock', 'post-grunge', 'rock']",68
+185,5nGIFgo0shDenQYSE0Sn7c,Evanescence,['alternative metal'],75
+186,7xNPROyVfkH4mcIxxCxySm,Junior Senior,['danish pop'],56
+188,7wFDo161xYdeaiLz3KIHoM,Gallant,"['alternative r&b', 'chill r&b', 'indie r&b', 'pop', 'r&b']",59
+189,3LFFf4EpKn2krneZ9vozyz,JO YURI,['korean ost'],55
+190,4XlcLj6bxCnpBIOHmBpIWP,American Hi-Fi,['pop punk'],53
+191,4ufh0WuMZh6y4Dmdnklvdl,BAEKHYUN,['k-pop'],69
+192,3ytV7vc4ZuwGgwaOuWvkk8,MINO,"['k-pop', 'k-rap']",65
+193,0p4nmQO2msCgU4IF37Wi3j,Avril Lavigne,"['canadian pop', 'candy pop', 'dance pop', 'pop', 'post-teen pop']",81
+194,0C0XlULifJtAgn6ZNCW2eu,The Killers,"['alternative rock', 'dance rock', 'modern rock', 'permanent wave', 'rock']",81
+195,10lR6OAc74wnyP1P8Gfsct,JINU,[],30
+196,0SHJWEBfbcjkE8bGiSTykk,Robert Smith ,[],46
+197,32vWCbZh0xZ4o9gkz4PsEU,Dolly Parton,"['classic country pop', 'country', 'country dawn']",77
+198,74oJ4qxwOZvX6oSsu1DGnw,Cream,"['album rock', 'art rock', 'blues rock', 'classic rock', 'folk rock', 'hard rock', 'psychedelic rock', 'rock', 'roots rock', 'supergroup']",66
+199,24XtlMhEMNdi822vi0MhY1,Taking Back Sunday,"['emo', 'pop punk']",65
+200,7t0rwkOPGlDPEhaOcVtOt9,The Cranberries,"['irish rock', 'pop rock', 'rock']",76
+201,7EK1bQADBoqbYXnT4Cqv9w,John Denver,"['adult standards', 'classic country pop', 'folk', 'folk rock', 'mellow gold', 'soft rock']",74
+204,36BjLtXEXIifbRrfc1Rtqa,Yuno,"['gamecore', 'jacksonville indie']",50
+205,6wQMF27xWhSyJFnO9L5mQk,Cartel,"['atlanta punk', 'emo', 'neon pop punk', 'pop emo', 'pop punk']",52
+206,2PSiyldxmJze7xiqbz658m,Spin Doctors,"['alternative rock', 'pop rock', 'rock']",62
+208,5KPaeBm0fVfCSZLydp9jdy,LOOΠΔ / ODD EYE CIRCLE,"['k-pop', 'k-pop girl group']",54
+210,7u6LfVyYpEzMpHLL7jTyvU,Dwele,"['alternative r&b', 'neo soul', 'r&b', 'urban contemporary']",69
+212,09J4zbHHwNNlN2tfgJIg21,Anarbor,"['modern rock', 'neon pop punk', 'pop emo', 'pop punk']",61
+213,2e4G04F77jxVuDYo44TCSm,Loco,"['k-pop', 'k-rap', 'korean r&b']",66
+214,2eam0iDomRHGBypaDQLwWI,Bleachers,"['double drumming', 'indie pop', 'indie poptimism', 'modern alternative rock', 'modern rock', 'pop rock']",67
+215,6Wr3hh341P84m3EI8qdn9O,Rise Against,"['chicago hardcore', 'chicago punk', 'hardcore punk', 'punk']",74
+216,3ICflSq6ZgYAIrm2CTkfVP,The Animals,"['album rock', 'blues rock', 'british invasion', 'classic rock', 'folk rock', 'protopunk', 'psychedelic rock', 'rock']",69
+218,2WKdxPFRD7IqZvlIAvhMgY,Fugees,"['east coast hip hop', 'gangster rap', 'hip hop', 'new jersey rap', 'rap']",70
+219,2Mu5NfyYm8n5iTomuKAEHl,Ms. Lauryn Hill,"['conscious hip hop', 'hip pop', 'neo soul', 'new jersey rap', 'r&b', 'urban contemporary']",75
+220,4EasYyQ8WcUJYIxqe0dRqY,Home Grown,"['emo', 'pop punk', 'skate punk', 'socal pop punk']",32
+221,2Z7UcsdweVlRbAk5wH5fsf,The Last Shadow Puppets,"['alternative rock', 'baroque pop', 'indie rock', 'modern rock', 'rock', 'sheffield indie']",64
+222,1ctkBmvz80MGyi72Ix055S,Alex Turner,"['modern rock', 'rock', 'sheffield indie']",66
+223,3M0H4efyA5YcijrKlaKbYn,Miles Kane,"['baroque pop', 'garage rock', 'indie rock', 'modern alternative rock', 'modern rock', 'rock']",64
+224,5UqTO8smerMvxHYA5xsXb6,Sonic Youth,"['alternative rock', 'art rock', 'indie rock', 'new wave', 'noise pop', 'noise rock', 'post-punk', 'rock']",64
+225,3hozsZ9hqNq7CoBGYNlFTz,OK Go,"['alternative rock', 'chicago indie', 'indie rock', 'modern alternative rock', 'modern rock', 'permanent wave', 'pop rock', 'rock']",60
+228,6olE6TJLqED3rqDCT0FyPh,Nirvana,"['alternative rock', 'grunge', 'permanent wave', 'rock']",84
+229,7bKupnlF7XOfR1En3K8oAL,Go West,"['mellow gold', 'new romantic', 'new wave', 'new wave pop', 'soft rock', 'synthpop']",54
+237,7tYKF4w9nC0nq9CsPZTHyP,SZA,"['pop', 'r&b', 'rap']",89
+238,0LbLWjaweRbO4FDKYlbfNt,Kaiser Chiefs,"['alternative rock', 'modern rock', 'rock']",64
+241,4GITZM5LCR2KcdlgEOrNLD,The Foundations,"['brill building pop', 'bubblegum pop', 'motown', 'rock-and-roll', 'soul']",62
+243,4LLpKhyESsyAXpc4laK94U,Mac Miller,"['hip hop', 'pittsburgh rap', 'rap']",88
+244,3jK9MiCrA42lLAdMGUZpwa,Anderson .Paak,['escape room'],87
+248,3ZZzT0naD25RhY2uZvIKkJ,EVERGLOW,"['k-pop', 'k-pop girl group']",71
+251,0ZjVwJw2cFymrcIwmGuVEl,DALsooobin,['korean electropop'],31
+254,3wRA5UYoo08BBKJnzyKkpF,f(x),"['k-pop', 'k-pop girl group']",58
+255,0niJkG4tKkne3zwr7I8n9n,Finger Eleven,"['alternative metal', 'canadian rock', 'funk metal', 'nu metal', 'post-grunge', 'rap rock']",64
+256,13ubrt8QOOCPljQ2FL1Kca,A$AP Rocky,"['east coast hip hop', 'hip hop', 'rap', 'trap']",86
+258,1TqQi97nqeiuOJrIFv5Sw0,Semisonic,['pop rock'],62
+259,53A0W3U0s8diEn9RhXQhVz,Keane,"['neo mellow', 'piano rock', 'pop rock', 'rock']",74
+260,3r6Sk3pYxdJk7MekhBGgMR,Blood Red Shoes,"['alternative dance', 'brighton indie', 'garage rock', 'indie rock', 'modern alternative rock', 'modern rock', 'new rave']",48
+261,4tZwfgrHOc3mvqYlEYSvVi,Daft Punk,"['electro', 'filter house']",83
+262,1rAv1GhTQ2rmG94p9lU3rB,Julian Casablancas,['indie rock'],65
+263,1lKZzN2d4IqiEYxyECIEHI,Hot Mulligan,"['alternative emo', 'anthem emo', 'emo', 'pop punk']",61
+264,41Q0HrwWBtuUkJc7C1Rp6K,311,"['alternative metal', 'alternative rock', 'funk metal', 'funk rock', 'nu metal', 'pop rock', 'rap rock', 'reggae fusion', 'rock']",65
+265,6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,"['dance pop', 'pop', 'uk pop']",94
+266,68kEuyFKyqrdQQLLsmiatm,Vince Staples,"['conscious hip hop', 'escape room', 'hip hop', 'rap', 'underground hip hop']",73
+270,2cGwlqi3k18jFpUyTrsR84,The Verve,"['alternative rock', 'britpop', 'modern rock', 'permanent wave', 'pop rock', 'rock', 'shoegaze']",70
+271,6hN9F0iuULZYWXppob22Aj,Simple Minds,"['art rock', 'dance rock', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'rock', 'scottish new wave', 'soft rock', 'synthpop']",70
+273,245PKF3hKjtxJKIG153kF0,Kailee Morgue,"['alt z', 'electropop', 'indie electropop', 'indie pop', 'indie poptimism', 'pop']",58
+276,1gUch6pcj8OKOw6kKlWAPE,Nico Vega,['indie rock'],43
+279,1MPcILKoMCJym9KscdYxuM,White Town,['derby indie'],53
+280,5dHt1vcEm9qb8fCyLcB3HL,A$AP Ferg,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap', 'underground hip hop']",78
+281,0XNa1vTidXlvJ2gHSsRi4A,Franz Ferdinand,"['alternative dance', 'alternative rock', 'dance rock', 'modern rock', 'new rave', 'rock', 'scottish rock']",69
+282,77tT1kLj6mCWtFNqiOmP9H,Daryl Hall & John Oates,"['album rock', 'classic rock', 'mellow gold', 'rock', 'soft rock', 'yacht rock']",78
+283,40Yq4vzPs9VNUrIBG5Jr2i,The Smashing Pumpkins,"['alternative metal', 'alternative rock', 'grunge', 'permanent wave', 'pop rock', 'rock']",75
+284,2KC9Qb60EaY0kW4eH68vr3,ITZY,['k-pop girl group'],79
+286,59KX7XUUgAOOo5IyDjca0T,Verzache,['sad lo-fi'],68
+288,3WrFJ7ztbogyGnTHbHJFl2,The Beatles,"['beatlesque', 'british invasion', 'classic rock', 'merseybeat', 'psychedelic rock', 'rock']",90
+289,2Dr2zHoPEuASW1kOODc5I2,Carousel Kings,"['anthem emo', 'easycore', 'pop punk']",38
+290,1dfeR4HaWDbWqFHLkxsg1d,Queen,"['classic rock', 'glam rock', 'rock']",90
+291,6OwKE9Ez6ALxpTaKcT5ayv,AKMU,['k-pop'],65
+292,1xU878Z1QtBldR7ru9owdU,Phoenix,"['alternative dance', 'indie rock', 'modern rock', 'new rave', 'pop rock', 'rock independant francais']",67
+293,1PAi6SNPtaiFqTRiTfecFr,Save Ferris,"['modern ska punk', 'ska', 'ska punk']",44
+294,3X0tJzVYoWlfjLYI0Ridsw,Suzanne Vega,"['lilith', 'new wave pop', 'permanent wave', 'pop rock', 'singer-songwriter']",60
+295,2rGm8R7YDTbqDCVlNssQyL,DNA,[],53
+301,5TnQc2N1iKlFjYD7CPGvFc,DAY6,"['k-pop', 'k-pop boy group']",71
+304,5PokPZn11xzZXyXSfnvIM3,Lifehouse,"['alternative metal', 'neo mellow', 'pop rock', 'post-grunge']",69
+305,1A92IAcd7A6npCA33oGM5i,The Proclaimers,"['celtic rock', 'new wave pop', 'scottish rock']",65
+309,2vnB6tuQMaQpORiRdvXF9H,Beach Bunny,"['bubblegrunge', 'chicago indie', 'indie pop']",75
+310,3uA9RwNUL7HZKroYyVlUuL,Gillian Hills,['ye ye'],46
+315,250b0Wlc5Vk0CoUsaCY84M,JENNIE,['k-pop'],65
+319,1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",99
+320,6kz53iCdBSqhQCZ21CoLcc,Culture Club,"['disco', 'europop', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'soft rock', 'synthpop']",67
+322,1OjcBoc71FwlzD5cJGx7xk,SULLI,['k-pop'],49
+323,6UdKtISMXYKSR8jcgtFePo,Rad Museum,"['k-indie', 'k-rap', 'korean r&b']",56
+324,6qgnBH6iDM91ipVXv28OMu,KAYTRANADA,"['escape room', 'indie soul', 'lgbtq+ hip hop']",73
+327,5gznATMVO85ZcLTkE9ULU7,Lenny Kravitz,"['permanent wave', 'pop rock', 'rock']",73
+329,26VFTg2z8YR0cCuwLzESi2,Halsey,"['dance pop', 'electropop', 'etherpop', 'indie poptimism', 'pop']",88
+330,1B96WL8omj1rxR2eJg1EqK,1AM,[],0
+331,3Ngh2zDBRPEriyxQDAMKd1,Matchbox Twenty,"['neo mellow', 'pop rock', 'post-grunge']",70
+332,3lDpdwM8KILepMHqBWUhIA,The Struts,"['glam rock', 'modern alternative rock', 'modern rock']",62
+333,2DaxqgrOhkeH0fpeiQq2f4,Oasis,"['beatlesque', 'britpop', 'madchester', 'permanent wave', 'rock']",80
+337,52zMTJCKluDlFwMQWmccY7,LOONA,"['k-pop', 'k-pop girl group']",71
+338,5sD1ZLf2dGQ9gQ3YJl1eAd,Blind Melon,"['alternative metal', 'alternative rock', 'blues rock', 'grunge', 'pop rock', 'rock']",65
+339,3E3xrZtBU5ORqcmX78v5YZ,The Starting Line,"['emo', 'neon pop punk', 'philly indie', 'pop emo', 'pop punk', 'screamo']",51
+340,0lAWpj5szCSwM4rUMHYmrr,Måneskin,"['indie rock italiano', 'italian pop']",86
+343,4QQgXkCYTt3BlENzhyNETg,"Earth, Wind & Fire","['disco', 'funk', 'jazz funk', 'motown', 'quiet storm', 'soul']",78
+346,06YQ6XwCdPUn8rAXV70gge,Republica,"['candy pop', 'new wave pop']",46
+347,5sTzirFL1wjNa3GuSiUHsy,Stuck in the Sound,"['french rock', 'rock independant francais']",51
+348,1SImpQO0GbjRgvlwCcCtFo,The Red Jumpsuit Apparatus,"['pop punk', 'pop rock', 'screamo']",66
+349,2yJwXpWAQOOl5XFzbCxLs9,Bad Religion,"['punk', 'skate punk', 'socal pop punk']",65
+351,2FXC3k01G6Gw61bmprjgqS,Hozier,"['irish singer-songwriter', 'pop']",83
+352,6A43Djmhbe9100UwnI7epV,CAKE,"['alternative rock', 'modern rock', 'pop rock', 'rock', 'sacramento indie']",66
+353,0tkHE1pQ5ZCgQb8WZ0ba79,Gaeko,"['k-rap', 'korean pop', 'korean r&b']",61
+354,6eoJpTIlcuxJNjV5fDzDJH,Live,"['alternative metal', 'alternative rock', 'pop rock', 'post-grunge', 'rock']",65
+356,19ra5tSw0tWufvUp8GotLo,George Michael,[],78
+358,7cYEt1pqMgXJdq00hAwVpT,Chase Atlantic,['pop'],83
+359,1tqZaCwM57UFKjWoYwMLrw,The Cardigans,"['dance pop', 'lilith', 'new wave pop', 'permanent wave', 'pop rock', 'swedish pop']",66
+360,3XsgWn63EnA4wYZBjVyxjf,Ugly Kid Joe,"['funk metal', 'funk rock', 'glam metal', 'hard rock', 'rock']",58
+362,3FUY2gzHeIiaesXtOAdB7A,Train,"['dance pop', 'neo mellow', 'pop', 'pop rock']",78
+363,43mhFhQ4JAknA7Ik1bOZuV,Pat Benatar,"['album rock', 'classic rock', 'heartland rock', 'mellow gold', 'new wave pop', 'rock', 'soft rock']",66
+364,1dip2dCkBIylIFyDfZQfFu,Gun,"['hard rock', 'modern hard rock']",41
+366,0vWCyXMrrvMlCcepuOJaGI,Boys Like Girls,"['neo mellow', 'neon pop punk', 'pop punk', 'pop rock', 'post-teen pop']",65
+368,1zV9UjTUevjp5VUddqIUUn,Mr Hudson,[],61
+370,5b2OzvLaL6nyxw5pbVbSdy,Skeeter Davis,"['brill building pop', 'nashville sound']",52
+371,4frytKnOBrer4QVPWynGtX,Forever The Sickest Kids,"['electropowerpop', 'neon pop punk', 'pop emo', 'pop punk', 'texas pop punk']",57
+374,0SD4eZCN4Kr0wQk56hCdh2,Bonnie Tyler,"['europop', 'new wave pop', 'soft rock']",71
+375,6QyO41KctzGc70mVaVnXQO,CLC,"['k-pop', 'k-pop girl group', 'korean city pop']",60
+377,3pHeBYl1yujXcZqqfF1UyQ,Blues Traveler,"['alternative rock', 'blues rock', 'jam band', 'mellow gold', 'pop rock', 'rock']",61
+382,2vVT4qoxWje0gVD2FiWZ4u,Jeff Bernat,"['chill r&b', 'pop', 'popping']",65
+384,6Q192DXotxtaysaqNPy5yR,Amy Winehouse,"['british soul', 'indie r&b', 'neo soul']",79
+385,3ApUX1o6oSz321MMECyIYd,Quinn XCII,"['electropop', 'indie pop rap', 'pop', 'pop rap']",75
+386,0RqtSIYZmd4fiBKVFqyIqD,Thirty Seconds To Mars,"['modern rock', 'post-grunge', 'rock']",71
+387,4F84IBURUo98rz4r61KF70,The White Stripes,"['alternative rock', 'blues rock', 'detroit rock', 'garage rock', 'modern blues rock', 'modern rock', 'permanent wave', 'punk blues', 'rock']",75
+389,2ziB7fzrXBoh1HUPS6sVFn,Audioslave,"['alternative metal', 'alternative rock', 'nu metal', 'permanent wave', 'post-grunge', 'rock', 'supergroup']",72
+390,5DIi2JWfQPTKffaVBlIYRn,Sik-K,"['k-pop', 'k-rap', 'korean r&b']",62
+396,2EYidR98SsS1xtRwavAmW1,Davey Vonbohlen,[],39
+397,168dgYui7ExaU612eooDF1,Brand New,"['emo', 'screamo']",63
+398,77qukKzmdI5BeMBR7WGUrN,Aaron Smith,['chicago house'],66
+399,17TFSnqADESRM8BPSaM5aB,Krono,[],68
+400,6dqohi36avY0M9urnyhITr,Luvli,[],68
+402,6Xq9CIMYWK4RCrMVtfEOM0,Grayscale,"['anthem emo', 'pop punk']",54
+404,536BYVgOnRky0xjsPT96zl,Two Door Cinema Club,"['alternative dance', 'indietronica', 'irish rock', 'modern alternative rock', 'modern rock', 'northern irish indie', 'rock']",72
+410,3T55D3LMiygE9eSKFpiAye,Badflower,"['modern alternative rock', 'modern rock', 'post-grunge', 'rock']",63
+411,7enBrBojgBJuPPdqTq4Z5F,Citizen Cope,[],58
+413,4PpmBoqphQusNFsxuVKb6j,Paula Abdul,"['dance pop', 'new wave pop', 'soft rock', 'urban contemporary']",59
+414,6J7biCazzYhU3gM9j1wfid,Jamiroquai,['dance pop'],70
+416,5P5FTygHyx2G57oszR3Wot,Daughtry,"['alternative metal', 'neo mellow', 'pop rock', 'post-grunge']",68
+417,0zOcE3mg9nS6l3yxt1Y0bK,The Fray,"['neo mellow', 'piano rock', 'pop', 'pop rock']",74
+419,6nfDaffa50mKtEOwR8g4df,GOT7,"['k-pop', 'k-pop boy group']",69
+421,4V8LLVI7PbaPR0K2TGSxFF,"Tyler, The Creator","['hip hop', 'rap']",89
+423,35U9lQaRWSQISxQAB94Meo,America,"['album rock', 'art rock', 'classic rock', 'country rock', 'folk rock', 'mellow gold', 'rock', 'soft rock']",70
+424,0tcbedGX7n5UHrMhVsGmIU,George Martin,[],66
+427,2xvtxDNInKDV4AvGmjw6d1,Bladee,"['glitchcore', 'underground hip hop']",70
+431,6YVMFz59CuY7ngCxTxjpxE,aespa,"['k-pop', 'k-pop girl group']",78
+434,0Grjlu7ncIuCaSYvCs9fcd,New Radicals,['pop rock'],62
+436,4uN3DsfENc7dp0OLO0FEIb,Sugar Ray,"['alternative metal', 'alternative rock', 'funk metal', 'neo mellow', 'pop rock', 'rock']",63
+438,5aYyPjAsLj7UzANzdupwnS,Good Charlotte,"['pop punk', 'rock']",70
+439,7FPkZue0zzjHaOPJb4WCw3,The Pigeon Detectives,"['indie rock', 'leeds indie', 'modern rock', 'new rave', 'rock']",49
+441,1fBCIkoPOPCDLUxGuWNvyo,Poison,"['album rock', 'glam metal', 'hard rock', 'rock']",67
+443,6zFYqv1mOsgBRQbae3JJ9e,Billy Joel,"['classic rock', 'folk rock', 'mellow gold', 'piano rock', 'rock', 'singer-songwriter', 'soft rock']",80
+444,6MoXcK2GyGg7FIyxPU5yW6,SUNMI,['k-pop'],68
+445,0BqRGrwqndrtNkojXiqIzL,Whee In,"['k-pop', 'korean ost']",58
+446,0fA0VVWsXO9YnASrzqfmYu,Kid Cudi,"['hip hop', 'ohio hip hop', 'pop rap', 'rap']",87
+448,1FGH4Bh7g9W6V4fUcKZWp5,Descendents,"['hardcore punk', 'melodic hardcore', 'punk', 'ska punk', 'skate punk']",57
+449,64H8UqGLbJFHwKtGxiV8OP,THE ANXIETY,['modern alternative pop'],78
+450,3rWZHrfrsPBxVy692yAIxF,WILLOW,"['afrofuturism', 'dance pop', 'electropop', 'pop', 'post-teen pop']",83
+451,1xoxekeb8jUVHKJB7m6bfg,Tyler Cole,['bedroom soul'],78
+452,0siBQaURCli5wn2lqv8WZg,DPR LIVE,"['k-pop', 'korean r&b']",69
+453,51J0q8S7W3kIEYHQi3EPqk,Bayside,"['alternative emo', 'emo', 'pop punk', 'post-hardcore', 'screamo']",55
+454,3WwGRA2o4Ux1RRMYaYDh7N,Mariya Takeuchi,"['classic city pop', 'idol kayo', 'j-pop', 'japanese singer-songwriter']",62
+457,1z4g3DjTBBZKhvAroFlhOM,Red Velvet,"['k-pop', 'k-pop girl group']",76
+458,6TZdvF1kFzwnQLgHQynzsO,Alien Ant Farm,"['alternative metal', 'alternative rock', 'funk metal', 'nu metal', 'post-grunge', 'rap rock', 'rock']",65
+468,2QwJQuBekTA4qF7N7uLHDP,Veruca Salt,"['alternative pop', 'alternative rock', 'grunge', 'lilith', 'riot grrrl']",49
+472,2YZyLoL8N0Wb9xBt1NhZWg,Kendrick Lamar,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",90
+474,1aEYCT7t18aM3VvM6y8oVR,Alkaline Trio,"['chicago punk', 'emo', 'pop punk', 'punk', 'screamo', 'skate punk']",59
+475,3dz0NnIZhtKKeXZxLOxCam,Porter Robinson,"['complextro', 'edm', 'melodic dubstep', 'progressive electro house']",67
+476,4pb4rqWSoGUgxm63xmJ8xc,Madeon,"['complextro', 'edm', 'electro house', 'electropop', 'filter house', 'future bass', 'nantes indie', 'pop dance']",63
+477,4tpUmLEVLCGFr93o8hFFIB,Blondie,"['candy pop', 'new wave', 'new wave pop', 'permanent wave', 'power pop', 'rock']",73
+482,6vHBuUxrcpn1do5UaEJ7g6,Domo Genesis,"['alternative hip hop', 'escape room', 'hip hop', 'rap', 'underground hip hop']",61
+488,04gDigrS5kc9YWfZHwBETP,Maroon 5,"['pop', 'pop rock']",90
+489,7F1iAHRYxR3MY7yAEuFqgL,Jihyo,[],31
+490,5fnb8S2ezlVH9xymScJrlM,나연,[],30
+491,4FFzXvfKlDq1Ntq7jZxc2C,쯔위,[],30
+492,1k2G1Rqm8yYIIUpN364CwE,Chaeyeong,[],30
+496,6sHCvZe1PHrOAuYlwTLNH4,Gus Dapperton,"['bedroom pop', 'indie pop', 'indie poptimism']",69
+498,55VydwMyCuGcavwPuhutPL,The Used,"['post-hardcore', 'rock', 'screamo']",66
+499,4iCpRg64Oj1rolJMm4f30u,Nujabes,[],32
+501,6xeFne1rkxMhKSW3ipvkdV,Toploader,['british alternative rock'],65
+504,7FBcuc1gsnv6Y1nwFtNRCb,My Chemical Romance,"['emo', 'pop punk', 'rock']",81
+506,6CxZzQFUTM6AzgluGwtq5w,Charlie Wilson,"['contemporary r&b', 'neo soul', 'quiet storm', 'r&b', 'urban contemporary']",65
+507,57ZTzIn5GLxNLzWgnTTcHj,Chaz Bundick,[],55
+508,3jk39CGeaaSO3FPKNx1RUx,Syd,"['alternative r&b', 'chill r&b', 'escape room', 'indie r&b', 'indie soul', 'lgbtq+ hip hop', 'r&b']",70
+510,29HqjVbJr3vsc2l6BTI4eB,GroovyRoom,"['k-rap', 'korean r&b']",51
+511,22bE4uQ6baNwSHPVcDxLCe,The Rolling Stones,"['british invasion', 'classic rock', 'rock']",82
+513,2uYisEeWBn5hp3e8ObdeUV,PRXZM,['indie electropop'],45
+518,4V4Z3qMCwYofWHtip6ePF6,Bobby Caldwell,['yacht rock'],60
+520,19I4tYiChJoxEO5EuviXpz,AFI,"['emo', 'pop punk', 'punk', 'screamo', 'skate punk']",65
+521,6GI52t8N5F02MxU0g5U69P,Santana,"['blues rock', 'classic rock', 'mexican classic rock']",75
+522,3aBkeBhwadnWMWoVJ2CxJC,Rob Thomas,"['acoustic pop', 'neo mellow', 'pop rock']",66
+523,4mYFgEjpQT4IKOrjOUKyXu,Wheatus,['pop rock'],63
+525,4hUmsYcvD8C5zuVSP93jb1,Miki Matsubara,['classic city pop'],65
+526,04RtvnUz0XrUbUZzOA8ZoW,Sugarcult,"['emo', 'neon pop punk', 'pop punk', 'punk', 'screamo']",57
+528,4rGrN4XDYhP6dUAZMvcuHr,Caesars,['swedish indie rock'],57
+529,0vEsuISMWAKNctLlUAhSZC,Counting Crows,"['alternative rock', 'neo mellow', 'pop rock', 'rock']",71
+532,7MhMgCo0Bl0Kukl93PZbYS,Blur,"['alternative rock', 'britpop', 'madchester', 'modern rock', 'permanent wave', 'pop rock', 'rock']",72
+533,3koiLjNrgRTNbOwViDipeA,Marvin Gaye,"['classic soul', 'funk', 'indie r&b', 'motown', 'northern soul', 'quiet storm', 'soul']",77
+534,7slfeZO9LsJbWgpkIoXBUJ,Ricky Martin,"['dance pop', 'latin', 'latin pop', 'mexican pop', 'puerto rican pop']",79
+535,1McMsnEElThX1knmY4oliG,Olivia Rodrigo,['pop'],92
+536,6V6WCgi7waF55bJmylC4H5,Gloria Gaynor,['disco'],68
+547,5Lhxlge1CR1DrgDAje8Qaw,NoMBe,"['electropop', 'indie poptimism', 'indie soul', 'modern rock', 'vapor soul']",63
+549,492hDmhPyuIjP3MgTcIqgm,Caro Emerald,"['dutch pop', 'electro swing', 'nu jazz']",57
+550,415JrPfN7ukaTu8JV8BLE8,Local H,"['alternative metal', 'alternative rock', 'grunge', 'nu metal', 'post-grunge', 'rock']",55
+552,7qXzy6c5RWT0XlVQcOBIDG,Mark Forster,['german pop'],68
+559,5ictveRyhWRs8Gt8Dvt1hS,The Front Bottoms,"['asbury park indie', 'emo', 'modern rock', 'new jersey indie']",68
+561,2Tglaf8nvDzwSQnpSrjLHP,Cuco,"['bedroom pop', 'dream pop']",74
+564,6CwfuxIqcltXDGjfZsMd9A,MARINA,"['art pop', 'dance pop', 'electropop', 'metropopolis', 'pop', 'uk alternative pop']",79
+566,0urTpYCsixqZwgNTkPJOJ4,Aaliyah,"['contemporary r&b', 'dance pop', 'hip pop', 'pop', 'pop rap', 'r&b', 'urban contemporary']",72
+568,3WfJ1OtrWI7RViX9DMyEGy,Mayday Parade,"['neon pop punk', 'pop emo', 'pop punk', 'rock']",66
+569,2sil8z5kiy4r76CRTXxBCA,The Goo Goo Dolls,"['alternative rock', 'neo mellow', 'permanent wave', 'pop rock', 'post-grunge', 'rock']",73
+571,6mK0vAO13gT8jWYANyoXAl,Young Franco,"['aussietronica', 'indie soul']",58
+572,6fxyWrfmjcbj5d12gXeiNV,Denzel Curry,"['dark trap', 'drill', 'hip hop', 'miami hip hop', 'rap', 'underground hip hop']",77
+573,2O2dI9lY9PnWtAa4OlrgMi,Pell,['underground hip hop'],57
+574,5PbpKlxQE0Ktl5lcNABoFf,Car Seat Headrest,"['alternative rock', 'indie pop', 'indie rock']",65
+577,3qm84nBOXUEQ2vnTfUTTFC,Guns N' Roses,"['glam metal', 'hard rock', 'rock']",82
+579,7LImGq5KnzQobZciDJpeJb,Charlotte Lawrence,"['alt z', 'dance pop', 'electropop', 'indie poptimism', 'pop', 'post-teen pop', 'social media pop']",66
+580,4Kxlr1PRlDKEB0ekOCyHgX,BIGBANG,"['k-pop', 'k-pop boy group']",69
+583,6dhfy4ByARPJdPtMyrUYJK,Yerin Baek,"['k-indie', 'k-pop', 'korean pop']",63
+585,0qB0cTENhSUc0feov5qbg0,Helmet,"['alternative metal', 'alternative rock', 'grunge', 'industrial metal', 'industrial rock', 'nu metal', 'post-hardcore', 'rap rock', 'rock']",56
+586,3S79khDmqHqH3SudDjO6dV,NO:EL,['k-rap'],48
+589,1CBjkH9nDLzLdyjXnwsXyv,Fanxy Child,[],34
+590,2h93pZq0e7k5yf4dywlkpM,Frank Ocean,"['alternative r&b', 'hip hop', 'lgbtq+ hip hop', 'neo soul', 'pop']",86
+591,5AfbFgeqRYOGZbu3lYtZLe,yukaDD(;´∀｀),[],35
+592,1gRNBaI4yn6wCCTvRhGWh8,Don McLean,"['adult standards', 'classic rock', 'folk', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock']",68
+593,0rvjqX7ttXeg3mTy8Xscbt,Journey,"['album rock', 'classic rock', 'hard rock', 'mellow gold', 'rock', 'soft rock']",76
+595,485uL27bPomh29R4JmQehQ,Bob Seger,"['album rock', 'blues rock', 'classic rock', 'country rock', 'detroit rock', 'folk rock', 'hard rock', 'heartland rock', 'mellow gold', 'rock', 'soft rock']",71
+597,5cCgzhFyRJVydeO23BqgLG,Matchbook Romance,"['emo', 'pop punk', 'post-hardcore', 'screamo']",47
+598,0NKDgy9j66h3DLnN8qu1bB,Eurythmics,"['art rock', 'dance rock', 'europop', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'rock', 'soft rock', 'sophisti-pop', 'synthpop']",72
+599,5MspMQqdVbdwP6ax3GXqum,Annie Lennox,"['mellow gold', 'new wave pop', 'pop rock', 'soft rock']",74
+600,7gcCQIlkkfbul5Mt0jBQkg,Dave Stewart,"['new wave pop', 'rock keyboard']",72
+601,7Lf3LOZp3U3u2f6cWMd3AH,Paul Weller,"['britpop', 'solo wave']",61
+608,7xkAwz0bQTGDSbkofyQt3U,Belinda Carlisle,"['new romantic', 'new wave pop', 'soft rock', 'synthpop']",65
+611,7MHvsuTLg2450NDMNafKVc,Free Energy,['philly indie'],25
+618,51l0uqRxGaczYr4271pVIC,The Bangles,"['album rock', 'jangle pop', 'mellow gold', 'new romantic', 'new wave', 'new wave pop', 'paisley underground', 'pop rock', 'rock', 'soft rock', 'synthpop']",66
+621,3vbKDsSS70ZX9D2OcvbZmS,Beck,"['alternative rock', 'anti-folk', 'modern rock', 'permanent wave', 'rock']",70
+623,19HgKsSbdKYlYmitK3Y8uP,In Fear And Faith,"['melodic metalcore', 'metalcore', 'post-screamo', 'screamo']",38
+625,29kkCKKGXheHuoO829FxWK,Boston,"['album rock', 'blues rock', 'classic rock', 'country rock', 'hard rock', 'mellow gold', 'rock', 'soft rock']",70
+631,1tjsxXugls5CwUxSlsDgKB,Straylight Run,"['emo', 'piano rock', 'screamo']",42
+632,3hOdow4ZPmrby7Q1wfPLEy,Aries,"['emo rap', 'pop rap', 'sad rap']",69
+633,6ogn9necmbUdCppmNnGOdi,Alanis Morissette,"['canadian pop', 'canadian singer-songwriter', 'lilith', 'pop rock', 'singer-songwriter']",71
+634,07XSN3sPlIlB2L2XNcTwJw,KISS,"['album rock', 'classic rock', 'glam rock', 'hard rock', 'metal', 'rock']",76
+635,7wg1qvie3KqDNQbAkTdbX0,Louis The Child,"['edm', 'electropop', 'indie poptimism', 'pop', 'pop dance', 'tropical house']",70
+636,0FL2d6iFFNAV3yBUbXjZ1U,Wafia,['australian pop'],64
+637,1Ffb6ejR6Fe5IamqA5oRUF,Bring Me The Horizon,"['melodic metalcore', 'metalcore', 'rock', 'uk metalcore']",81
+641,5MnIJOSS6Jl0H4nUayHYFs,Driver,['phonk'],50
+642,2QM5S4yO6xHgnNvF0nbZZq,SEULGI,['k-pop'],57
+643,2PSJ6YriU7JsFucxACpU7Y,CHUNG HA,['k-pop'],70
+644,0tZl5OAXf9jYXFmfRGejs2,SinB,['korean ost'],50
+645,6Xg22wJOAcnvPUfk5WvODH,JEON SOYEON,['k-pop'],62
+647,2d0hyoQ5ynDBnkvAbJKORj,Rage Against The Machine,"['alternative metal', 'alternative rock', 'conscious hip hop', 'funk metal', 'nu metal', 'political hip hop', 'rap metal', 'rap rock', 'rock']",75
+648,27T030eWyCQRmDyuvr1kxY,Scorpions,"['album rock', 'german hard rock', 'german metal', 'german rock', 'hard rock', 'metal', 'rock']",76
+649,6pmxr66tMAePxzOLfjGNcX,Beirut,"['albuquerque indie', 'baroque pop', 'chamber pop', 'indie pop', 'indie rock', 'stomp and holler']",63
+650,6SiyKSeJo6gcsS2NvuAbsl,zebrahead,"['funk metal', 'pop punk', 'punk', 'rap rock', 'skate punk']",62
+651,7sOR7gk6XUlGnxj3p9F54k,half•alive,"['alt z', 'indie pop', 'modern alternative rock', 'modern rock']",67
+652,0H0OkFxp022WOyKlt3HmlA,LOLO,[],55
+654,00FQb4jTyendYWaN8pK0wa,Lana Del Rey,"['art pop', 'pop']",88
+657,3bmFPbLMiLxtR9tFrTcKcP,Matthew Wilder,['new wave pop'],62
+658,3fMbdgg4jU18AjLCKBhRSm,Michael Jackson,"['pop', 'r&b', 'soul']",85
+660,12Zk1DFhCbHY6v3xep2ZjI,070 Shake,"['alternative r&b', 'new jersey rap']",68
+661,5SbkVQYYzlw1kte75QIabH,Gnarls Barkley,"['atl hip hop', 'neo soul']",66
+662,3ImqpXKKgkH5VydfgX1hd4,Say Anything,"['emo', 'neon pop punk', 'pop punk', 'screamo']",54
+665,4XDi67ZENZcbfKnvMnTYsI,Jay Park,"['k-pop', 'k-rap', 'korean r&b']",72
+666,3MdG05syQeRYPPcClLaUGl,Diana Ross,"['disco', 'motown', 'quiet storm', 'soft rock', 'soul']",71
+670,4kDmwaDsfY9hcvz7K0otLJ,Syd Matters,"['folktronica', 'french indie folk']",51
+673,0QJIPDAEDILuo8AIq3pMuU,M.I.A.,"['dance pop', 'escape room', 'indietronica', 'new rave']",72
+674,0qlWcS66ohOIi0M8JZwPft,GFRIEND,"['k-pop', 'k-pop girl group']",66
+677,5dbuFbrHa1SJlQhQX9OUJ2,Don Henley,"['album rock', 'art rock', 'classic rock', 'country rock', 'folk rock', 'heartland rock', 'mellow gold', 'new wave pop', 'pop rock', 'rock', 'singer-songwriter', 'soft rock', 'yacht rock']",67
+684,4KWTAlx2RvbpseOGMEmROg,R.E.M.,"['alternative rock', 'athens indie', 'classic rock', 'permanent wave', 'pop rock', 'rock']",77
+687,3bXhZFreBJF4QDUUiMmtZW,Reel Big Fish,"['modern ska punk', 'punk', 'ska', 'ska punk', 'skate punk', 'socal pop punk']",59
+691,057gc1fxmJ2vkctjQJ7Tal,The Buggles,"['early synthpop', 'new romantic', 'new wave', 'new wave pop', 'synthpop', 'zolo']",61
+692,3NChzMpu9exTlNPiqUQ2DE,Thrice,"['post-hardcore', 'screamo']",61
+695,2HPaUgqeutzr3jx5a9WyDV,PARTYNEXTDOOR,"['pop', 'pop rap', 'r&b', 'rap', 'toronto rap', 'trap', 'urban contemporary']",81
+696,5fuQrhMRYMtoO9uOlFad4P,The Fall of Troy,"['post-hardcore', 'progressive post-hardcore', 'screamo', 'swancore']",50
+697,65c5si0ePAwkOCn4M35Ho7,Sérgio Mendes,"['bossa nova', 'brazilian jazz', 'samba']",60
+698,73a6pNH4YtLNgDbPQwXveo,Kim Wilde,"['europop', 'new romantic', 'new wave', 'new wave pop', 'soft rock']",63
+699,5vV4gEs3O35SdrdwhvhYwe,Homesafe,"['alternative emo', 'anthem emo', 'chicago pop punk', 'easycore', 'pop punk']",32
+700,7zYj9S9SdIunYCfSm7vzAR,JEON SOMI,['k-pop'],73
+702,4UuoJfJ9UybJft7a8E6UHX,Better Than Ezra,"['alternative rock', 'pop rock', 'post-grunge']",54
+750,73B9bjqS2Z5KLXNGqXf64m,Weeekly,['k-pop'],65
+768,7guDJrEfX3qb6FEbdPA5qi,Stevie Wonder,"['adult standards', 'motown', 'quiet storm', 'soul']",82
