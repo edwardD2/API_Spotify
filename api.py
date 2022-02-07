@@ -4,8 +4,8 @@ import pandas as pd
 import math
 
 # keys
-CLIENT_ID = '8baca898de0c4eea86355c3304a1e42c'
-CLIENT_SECRET = '0789dd4880f74c7ea24a5e6d1f1424d1'
+CLIENT_ID = '****************'
+CLIENT_SECRET = '****************'
 
 # API call procedures
 AUTH_URL = 'https://accounts.spotify.com/api/token'
