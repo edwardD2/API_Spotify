@@ -4,8 +4,8 @@ import pandas as pd
 import math
 
 # keys
-CLIENT_ID = '****************'
-CLIENT_SECRET = '****************'
+CLIENT_ID = '8baca898de0c4eea86355c3304a1e42c'
+CLIENT_SECRET = '49339becb0854e229aceca7b73c88c49'
 
 # API call procedures
 AUTH_URL = 'https://accounts.spotify.com/api/token'
@@ -130,8 +130,11 @@ df_playlists = pd.DataFrame(columns=columns_playlists)
 all_top_genres = []
 
 # iterate through every playlist
-for i in range(1, len(r['items'])):
+for i in range(0, len(r['items'])):
     playlist_name = r['items'][i]['name']
+    if playlist_name == 'K':
+        print('Skipping playlist \'' + playlist_name + '\'.')
+        continue
     print('Grabbing tracks from \'' + playlist_name + '\'...')
     playlist_id = r['items'][i]['id']
     total_tracks = r['items'][i]['tracks']['total']
@@ -154,6 +157,15 @@ for i in range(1, len(r['items'])):
         df_all_artists = df_all_artists.append(df_artists, ignore_index=True)
 
         total_duration_ms += duration_ms
+
+    # designated 'predictions' playlist for model application
+    # 'predictions' needs to be the first playlist
+    if playlist_name == 'predictions':
+        df_all_tracks.to_csv('csv files/predictions.csv')
+        print('predictions.csv has been created.')
+        df_all_tracks = pd.DataFrame(columns=columns_tracks)
+        df_all_artists = pd.DataFrame(columns=columns_artists)
+        continue
 
     avg_energy = round(df_all_tracks['energy'].mean(), 4)
     avg_loudness = round(df_all_tracks['loudness'].mean(), 4)
