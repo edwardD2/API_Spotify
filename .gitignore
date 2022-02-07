@@ -128,7 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-SearchImage/.idea/misc.xml
-SearchImage/.idea/workspace.xml
-SearchImage/.idea/vcs.xml
-SearchImage/.idea
+# project control information
+.idea
