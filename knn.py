@@ -1,10 +1,10 @@
 # import libraries
-import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 import random
 from sklearn.metrics import confusion_matrix
 from sklearn.metrics import ConfusionMatrixDisplay
+from one_hot_encoder import *
 
 
 # find the min and max values for each column
@@ -63,7 +63,6 @@ tracks_all = pd.DataFrame()
 artists = pd.read_csv('csv files/artists.csv', index_col=0)
 top_genres = pd.read_csv('csv files/genres.csv', index_col=0)
 df = pd.read_csv('csv files/tracks.csv', index_col=0)
-genres = []
 ohe = pd.DataFrame(columns=top_genres.all_top_genres.values)
 for artist in df.track_artists:
     try:
@@ -71,13 +70,7 @@ for artist in df.track_artists:
         genres = genres.replace('[', '').replace(']', '').replace('\'', '').replace(', ', ',').split(',')
     except IndexError:
         genres = []
-    a = {}
-    for genre in top_genres.all_top_genres.values:
-        if genre in genres:
-            a[genre] = 1
-        else:
-            a[genre] = 0
-    ohe = ohe.append(a, ignore_index=True)
+    ohe = ohe.append(one_hot_encoder(top_genres.all_top_genres.values, genres), ignore_index=True)
 df = ohe.join(df)[top_genres.all_top_genres.values.tolist() +
                   ['energy', 'loudness', 'tempo', 'valence', 'danceability', 'playlist']]
 tracks_all = tracks_all.append(df, ignore_index=True)
