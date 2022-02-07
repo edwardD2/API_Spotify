@@ -144,7 +144,10 @@ for i in range(1, len(r['items'])):
 
         # add df values
         df_track, df_artists, duration_ms = get_tracks(df_track, df_artists, j, playlist_id)
-        df_track['playlist'] = playlist_name
+        if playlist_name == '떡볶이':
+            df_track['playlist'] = 'tteokbokki'
+        else:
+            df_track['playlist'] = playlist_name
 
         # combine df values into one collective df
         df_all_tracks = df_all_tracks.append(df_track, ignore_index=True)
