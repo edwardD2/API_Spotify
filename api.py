@@ -17,7 +17,7 @@ auth_response = requests.post(AUTH_URL, {
     'client_secret': CLIENT_SECRET,
 })
 
-# convert the response to JSON
+# convert the response to json
 auth_response_data = auth_response.json()
 
 # save the access token
