@@ -1,10 +1,9 @@
 ,playlist_id,playlist_name,avg_energy,avg_loudness,avg_tempo,avg_valence,avg_danceability,top_genres,total_tracks,total_duration
-0,7pdD7G1UnufPRNcw3dE072,K,0.783,-5.4331,127.9779,0.5667,0.5643,"['rock', 'punk', 'pop punk', 'socal pop punk', 'modern rock']",934,55:48:31
-1,5EJJgEGKlNOFyPKDMzW9W6,떡볶이,0.8104,-3.4164,123.5307,0.6388,0.7148,"['k-pop', 'k-pop girl group', 'korean ost', 'k-pop boy group', 'anime']",141,07:48:44
-2,1CC50bbyEzbK4XNqLeRUo2,b,0.6436,-6.5986,116.714,0.5595,0.6949,"['pop', 'boy band', 'hip hop', 'rap', 'dance pop']",34,02:02:58
-3,6h7zqwUfM8SlLdFAGOWUbs,never forget,0.627,-8.7333,119.872,0.6369,0.6205,"['soft rock', 'mellow gold', 'new wave pop', 'rock', 'classic rock']",76,05:05:06
-4,77xt0OncByfy5OLkvNWlox,whatever simulation,0.6549,-6.2083,116.8082,0.5566,0.6937,"['k-pop', 'korean r&b', 'pop', 'k-rap', 'r&b']",77,04:37:58
-5,0ur6GzNfyA6kAIqFKC5Zlr,untitled,0.7516,-6.9592,122.7545,0.625,0.5568,"['rock', 'pop rock', 'classic rock', 'alternative rock', 'album rock']",53,03:44:07
-6,7D7XMbpAoyhWD8LFIuwqSS,i feel like,0.8537,-4.5121,137.9943,0.5474,0.4894,"['pop punk', 'rock', 'modern rock', 'emo', 'progressive post-hardcore']",115,06:47:44
-7,1g5zPlCoUV6dZfj5wdMgNy,not edgy,0.8456,-5.2929,133.1573,0.5184,0.4677,"['skate punk', 'punk', 'alternative metal', 'rock', 'socal pop punk']",328,19:19:45
-8,1zPYYyIjusJdmAFMEuMCc3,doggo,0.751,-5.7541,127.2553,0.5495,0.5197,"['modern rock', 'rock', 'alternative rock', 'indie rock', 'permanent wave']",99,05:50:46
+0,5EJJgEGKlNOFyPKDMzW9W6,떡볶이,0.8086,-3.4382,123.4065,0.6368,0.7141,"['k-pop', 'k-pop girl group', 'korean ost', 'k-pop boy group', 'anime']",145,08:02:35
+1,1CC50bbyEzbK4XNqLeRUo2,b,0.7773,-4.0385,122.1353,0.6221,0.7104,"['pop', 'boy band', 'hip hop', 'rap', 'dance pop']",34,02:02:58
+2,6h7zqwUfM8SlLdFAGOWUbs,never forget,0.7325,-5.4377,121.4608,0.6265,0.6836,"['soft rock', 'mellow gold', 'rock', 'new wave pop', 'classic rock']",76,05:05:06
+3,77xt0OncByfy5OLkvNWlox,whatever simulation,0.7145,-5.6165,120.3817,0.6103,0.686,"['pop', 'k-pop', 'korean r&b', 'k-rap', 'r&b']",77,04:37:58
+4,0ur6GzNfyA6kAIqFKC5Zlr,untitled,0.7196,-5.8013,120.7084,0.6123,0.6682,"['rock', 'pop rock', 'alternative rock', 'permanent wave', 'classic rock']",53,03:44:07
+5,7D7XMbpAoyhWD8LFIuwqSS,i feel like,0.7504,-5.5048,124.6841,0.5974,0.6271,"['pop punk', 'rock', 'modern rock', 'emo', 'progressive post-hardcore']",115,06:47:44
+6,1g5zPlCoUV6dZfj5wdMgNy,not edgy,0.7881,-5.4209,128.0407,0.5661,0.5639,"['skate punk', 'punk', 'alternative metal', 'rock', 'socal pop punk']",328,19:19:45
+7,1zPYYyIjusJdmAFMEuMCc3,doggo,0.7842,-5.4565,127.9568,0.5643,0.5592,"['modern rock', 'rock', 'alternative rock', 'indie rock', 'permanent wave']",99,05:50:46
