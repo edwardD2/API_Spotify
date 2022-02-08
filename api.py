@@ -4,8 +4,8 @@ import pandas as pd
 import math
 
 # keys
-CLIENT_ID = '***************'
-CLIENT_SECRET = '***************'
+CLIENT_ID = '**********'
+CLIENT_SECRET = '**********'
 
 # API call procedures
 AUTH_URL = 'https://accounts.spotify.com/api/token'
@@ -161,7 +161,7 @@ for i in range(0, len(r['items'])):
     # designated 'predictions' playlist for model application
     # 'predictions' needs to be the first playlist
     if playlist_name == 'predictions':
-        df_all_tracks.to_csv('csv files/predictions.csv')
+        df_all_tracks.to_csv('csv files/predictions.csv', index=False)
         print('predictions.csv has been created.')
         df_all_tracks = pd.DataFrame(columns=columns_tracks)
         df_all_artists = pd.DataFrame(columns=columns_artists)
@@ -207,12 +207,12 @@ for i in range(0, len(r['items'])):
                                         'total_tracks': total_tracks, 'total_duration': total_duration
                                         }, ignore_index=True)
 
-df_all_tracks.to_csv('csv files/tracks.csv')
+df_all_tracks.to_csv('csv files/tracks.csv', index=False)
 print('tracks.csv has been created.')
-df_all_artists.drop_duplicates(subset='artist_id').to_csv('csv files/artists.csv')
+df_all_artists.drop_duplicates(subset='artist_id').to_csv('csv files/artists.csv', index=False)
 print('artists.csv has been created.')
-df_playlists.to_csv('csv files/playlists.csv')
+df_playlists.to_csv('csv files/playlists.csv', index=False)
 print('playlists.csv has been created.')
 atg = {'all_top_genres': all_top_genres}
-pd.DataFrame(atg).to_csv('csv files/genres.csv')
+pd.DataFrame(atg).to_csv('csv files/genres.csv', index=False)
 print('genres.csv has been created.')
